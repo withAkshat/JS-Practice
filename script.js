@@ -78,6 +78,7 @@ colorChange("red",1000,()=>{
         colorChange("green",1000)
         
     })
+    
     })
 
     //Above nesting of callback is called callback hell and is a great issue in industries..!!
